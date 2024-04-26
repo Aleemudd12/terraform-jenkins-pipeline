@@ -1,3 +1,6 @@
+
+uses: this repository use to run terraform command by jenkins
+
 First step INSTALL TERRAFORM PLUGIN
 
 INSTALL TERRAFORM AWS-CLI IN JENKINS MACHINE
